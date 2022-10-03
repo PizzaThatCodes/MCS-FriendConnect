@@ -1,0 +1,115 @@
+If restarting does not fix your error, submit this file in an github issue. https://github.com/minerj101/FriendConnect.
+-------------------------------------------------------
+
+[1664729702408] Server Advertisement Error:
+
+		Name: Error
+
+		Message: Ping timed out
+
+		Stack: Error: Ping timed out
+    at C:\Users\pizza\node_modules\bedrock-protocol\src\rak.js:61:31
+    at waitFor (C:\Users\pizza\node_modules\bedrock-protocol\src\datatypes\util.js:30:32)
+    at async ping (C:\Users\pizza\node_modules\bedrock-protocol\src\createClient.js:89:41)
+    at async Session.getAdvertisement (file:///C:/Users/pizza/node_modules/friend-connect/dist/index.js:1040:24)
+
+		Error: Error: Ping timed out
+
+		
+---------------------------------
+[1664729717381] Server Advertisement Error:
+
+		Name: Error
+
+		Message: Ping timed out
+
+		Stack: Error: Ping timed out
+    at C:\Users\pizza\node_modules\bedrock-protocol\src\rak.js:61:31
+    at waitFor (C:\Users\pizza\node_modules\bedrock-protocol\src\datatypes\util.js:30:32)
+    at async ping (C:\Users\pizza\node_modules\bedrock-protocol\src\createClient.js:89:41)
+    at async Session.getAdvertisement (file:///C:/Users/pizza/node_modules/friend-connect/dist/index.js:1040:24)
+
+		Error: Error: Ping timed out
+
+		
+---------------------------------
+[1664729732374] Server Advertisement Error:
+
+		Name: Error
+
+		Message: Ping timed out
+
+		Stack: Error: Ping timed out
+    at C:\Users\pizza\node_modules\bedrock-protocol\src\rak.js:61:31
+    at waitFor (C:\Users\pizza\node_modules\bedrock-protocol\src\datatypes\util.js:30:32)
+    at async ping (C:\Users\pizza\node_modules\bedrock-protocol\src\createClient.js:89:41)
+    at async Session.getAdvertisement (file:///C:/Users/pizza/node_modules/friend-connect/dist/index.js:1040:24)
+
+		Error: Error: Ping timed out
+
+		
+---------------------------------
+[1664729747391] Server Advertisement Error:
+
+		Name: Error
+
+		Message: Ping timed out
+
+		Stack: Error: Ping timed out
+    at C:\Users\pizza\node_modules\bedrock-protocol\src\rak.js:61:31
+    at waitFor (C:\Users\pizza\node_modules\bedrock-protocol\src\datatypes\util.js:30:32)
+    at async ping (C:\Users\pizza\node_modules\bedrock-protocol\src\createClient.js:89:41)
+    at async Session.getAdvertisement (file:///C:/Users/pizza/node_modules/friend-connect/dist/index.js:1040:24)
+
+		Error: Error: Ping timed out
+
+		
+---------------------------------
+[1664729762408] Server Advertisement Error:
+
+		Name: Error
+
+		Message: Ping timed out
+
+		Stack: Error: Ping timed out
+    at C:\Users\pizza\node_modules\bedrock-protocol\src\rak.js:61:31
+    at waitFor (C:\Users\pizza\node_modules\bedrock-protocol\src\datatypes\util.js:30:32)
+    at async ping (C:\Users\pizza\node_modules\bedrock-protocol\src\createClient.js:89:41)
+    at async Session.getAdvertisement (file:///C:/Users/pizza/node_modules/friend-connect/dist/index.js:1040:24)
+
+		Error: Error: Ping timed out
+
+		
+---------------------------------
+[1664734820684] Server Advertisement Error:
+
+		Name: Error
+
+		Message: Ping timed out
+
+		Stack: Error: Ping timed out
+    at C:\Users\pizza\node_modules\bedrock-protocol\src\rak.js:61:31
+    at waitFor (C:\Users\pizza\node_modules\bedrock-protocol\src\datatypes\util.js:30:32)
+    at async ping (C:\Users\pizza\node_modules\bedrock-protocol\src\createClient.js:89:41)
+    at async Session.getAdvertisement (file:///C:/Users/pizza/node_modules/friend-connect/dist/index.js:1040:24)
+
+		Error: Error: Ping timed out
+
+		
+---------------------------------
+[1664737928470] Server Advertisement Error:
+
+		Name: Error
+
+		Message: Ping timed out
+
+		Stack: Error: Ping timed out
+    at C:\Users\pizza\node_modules\bedrock-protocol\src\rak.js:61:31
+    at waitFor (C:\Users\pizza\node_modules\bedrock-protocol\src\datatypes\util.js:30:32)
+    at async ping (C:\Users\pizza\node_modules\bedrock-protocol\src\createClient.js:89:41)
+    at async Session.getAdvertisement (file:///C:/Users/pizza/node_modules/friend-connect/dist/index.js:1040:24)
+
+		Error: Error: Ping timed out
+
+		
+---------------------------------
